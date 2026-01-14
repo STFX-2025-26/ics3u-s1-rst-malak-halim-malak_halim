@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-package malakDesignDocuments;
+package malakJavaCode;
 
 public class CalculatorOperations {
 
